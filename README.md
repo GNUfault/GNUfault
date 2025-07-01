@@ -6,12 +6,6 @@
 
 <img src="https://github.com/user-attachments/assets/72060032-475b-4bba-af99-418cda3fa1a2" height="240"> <img src="https://github.com/user-attachments/assets/83760280-c7e0-4e53-88d9-24c6f22f9db7" height="240">
 
-## I use:
-
-<img src="https://github.com/user-attachments/assets/c302bbf1-066b-4318-9d42-62b2d4652134" height="240">
-
-## for all my projects.
-
 ## The OS I use is:
 
 <img src="https://github.com/user-attachments/assets/a7c907a2-2ea5-4f2b-9865-8119cf3c02f4" height="240"> <img src="https://github.com/user-attachments/assets/3b5e5282-2b16-4ed0-b1ff-48b855cba009" height="240">
