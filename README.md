@@ -12,4 +12,4 @@
 
 ## The OS I use is:
 
-<img src="https://github.com/user-attachments/assets/6783b5ff-4733-4803-bcfb-bc385127a39f" height="240"> <img src="https://github.com/user-attachments/assets/3b5e5282-2b16-4ed0-b1ff-48b855cba009" height="240">
+<img src="https://github.com/user-attachments/assets/ac2efc9c-e068-4d27-8c4c-da4744a3461c" height="240"> <img src="https://github.com/user-attachments/assets/3b5e5282-2b16-4ed0-b1ff-48b855cba009" height="240">
