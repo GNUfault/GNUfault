@@ -1,7 +1,7 @@
 # Hello! Hola! Velkommen! Bienvenue! Konnichiwa! Aloha! How ya doin'? Yo!  
 ## And in any language: welcome to my Profile!
 
-<img src="https://tenor.com/view/tivo-dance-radio-tivo-series-2-startup-gif-17162704633822194741.gif" alt="TiVo Dance" width="240">
+<img src="https://tenor.com/view/tivo-dance-radio-tivo-series-2-startup-gif-17162704633822194741.gif" alt="TiVo Dance" width="480">
 
 
 ## Creator of:
