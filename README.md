@@ -1,4 +1,4 @@
-# I am taking a break from really doing any coding for a mabye a week max
+# I am taking a break from really doing any coding until Jul 18, 2025 max
 
 # Hello! Hola! Velkommen! Bienvenue! Konnichiwa! Aloha! How ya doin'? Yo!  
 ## And in any language: welcome to my Profile!
