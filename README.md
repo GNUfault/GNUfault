@@ -1,4 +1,4 @@
-# I am taking a break from really doing coding for a mabye a week
+# I am taking a break from really doing any coding for a mabye a week max
 
 # Hello! Hola! Velkommen! Bienvenue! Konnichiwa! Aloha! How ya doin'? Yo!  
 ## And in any language: welcome to my Profile!
