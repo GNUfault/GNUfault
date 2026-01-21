@@ -1,4 +1,4 @@
-# Hi, I'm User!
+# Hi, I'm GNUfault!
 
 Welcome to my GitHub profile!
 I like to do programing on my free time, this is kinda just a combobulation of the lots of things ive made.
